@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE01ISSM-MFD35-02-PRESFA000-telemetered-presf_abc_dcl_tide_measurement
-last_request: '2021-10-05T21:57:54.715526Z'
+last_request: '2021-12-01T21:41:22.059804Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSM-MFD35-02-PRESFA000-telemetered-presf_abc_dcl_tide_measurement/main/history/response.json
-status: success
+status: pending
